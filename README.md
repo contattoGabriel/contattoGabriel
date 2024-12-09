@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Olá! Sou Gabriel Borges, estudante de Sistemas de Informação na PUC-MG.<br>- JavaScript Full Stack Developer</p>
+<p align="left">- Olá! Sou Gabriel Borges, estudante de Sistemas de Informação na PUC-MG.<br>- JavaScript Junior Full Stack Developer</p>
 
 ###
 
